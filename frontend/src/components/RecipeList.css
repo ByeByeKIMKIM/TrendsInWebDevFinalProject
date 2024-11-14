@@ -1,0 +1,12 @@
+.recipe-list {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: bisque;
+}
+
+.recipe-list h1 {
+    text-align: center;
+    color: #333;
+}
+  
